@@ -42,4 +42,10 @@ Household Characteristics.
       - WE fill the column 'Total year of education completed' using XGBOOST.
 
 ## Output
+   ![Alt text]([[https://example.com/image.png](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Assets%20per%20Person%20Across%20Household%20Types.jpg)](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/PCA%20Components%20Visualization%20(Household%20Clusters).jpg))
+   ![Alt text]([Graphs/Assets per Person Across Household Types.jpg](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Assets%20per%20Person%20Across%20Household%20Types.jpg))
+   ![Alt text](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Distribution%20of%20Household%20Test.jpg)
+   ![Alt text](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Percentage%20of%20Households%20Owning%20Different%20Assets.jpg)
+
+
 
