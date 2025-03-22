@@ -9,7 +9,6 @@ The Household Consumption Expenditure Survey (HCES) collects data on household c
 - [Overview](#overview)
 - [Installation](#installation)
 - [Data Pre-processing & Cleaning](#Data_Cleaning_&_Pre-processing)
-- [Output](#output)
 
 ## Overview
 The Household Consumption Expenditure Survey (HCES) is designed to collect information
@@ -40,11 +39,3 @@ Household Characteristics.
 2. Fill the Data in Person data file
       - Fill the empty cell of different columns with median, mode and 0 considering the better approach.
       - WE fill the column 'Total year of education completed' using XGBOOST.
-
-## Output
-   ![Alt text]([Graphs/Assets per Person Across Household Types.jpg](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Assets%20per%20Person%20Across%20Household%20Types.jpg))
-   ![Alt text](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Distribution%20of%20Household%20Test.jpg)
-   ![Alt text](https://github.com/ChoudharyyAK/Brainy-Bots-MPCE/blob/main/Graphs/Percentage%20of%20Households%20Owning%20Different%20Assets.jpg)
-
-
-
